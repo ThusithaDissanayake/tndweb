@@ -1,0 +1,34 @@
+/* Custom Styles */
+body {
+  padding-top: 56px; /* Adjust for fixed navbar */
+}
+
+.hero-section {
+  padding: 100px 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://via.placeholder.com/1500x800');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.services-section i {
+  color: #007bff;
+}
+
+.about-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.contact-section {
+  background-color: #f8f9fa;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #007bff;
+}
